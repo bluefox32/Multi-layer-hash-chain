@@ -291,8 +291,8 @@ if maintenance.validate_chain()[0]:
 
 ## ドキュメント
 
-- **[HASH_CHAIN_DESIGN.md](HASH_CHAIN_DESIGN.md)** - 詳細設計・アーキテクチャ
-- **[GITHUB_FINAL_FILE_LIST.md](GITHUB_FINAL_FILE_LIST.md)** - ファイル構成・拡張計画
+- **[HASH_CHAIN_DESIGN.md](docs/HASH_CHAIN_DESIGN.md)** - 詳細設計・アーキテクチャ
+- **[GITHUB_FINAL_FILE_LIST.md](docs/GITHUB_FINAL_FILE_LIST.md)** - ファイル構成・拡張計画
 
 ## ライセンス
 
